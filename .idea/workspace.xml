@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e96408a4-08b9-4310-b949-0e6498431cd5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/error.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.pug" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sDdnyFu9Zh2QF2VAv57pXfHR9X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.44" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Rok 2\WWSI sem. 6\PI\PI-Lab2\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Rok 2\WWSI sem. 6\PI\PI-Lab2\views" />
+      <recent name="D:\Rok 2\WWSI sem. 6\PI\PI-Lab2\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e96408a4-08b9-4310-b949-0e6498431cd5" name="Default Changelist" comment="" />
+      <created>1620411264360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620411264360</updated>
+      <workItem from="1620411265410" duration="114000" />
+      <workItem from="1620411426828" duration="255000" />
+      <workItem from="1622966188352" duration="126000" />
+      <workItem from="1622966469921" duration="29000" />
+      <workItem from="1623261574885" duration="100000" />
+      <workItem from="1623333728073" duration="595000" />
+      <workItem from="1623334336226" duration="13237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1164" y="533" width="594" height="334" key="#File_Watchers" timestamp="1623334239578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1164" y="533" width="594" height="334" key="#File_Watchers/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1623334239578" />
+    <state x="948" y="472" key="EditFileWatcherDialog" timestamp="1623334313930">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="948" y="472" key="EditFileWatcherDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1623334313930" />
+    <state x="1660" y="386" key="FileChooserDialogImpl" timestamp="1623334201170">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1660" y="386" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1623334201170" />
+    <state width="2537" height="400" key="GridCell.Tab.0.bottom" timestamp="1623337024163">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2537" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1623337024163" />
+    <state width="2537" height="400" key="GridCell.Tab.0.center" timestamp="1623337024162">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2537" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1623337024162" />
+    <state width="2537" height="400" key="GridCell.Tab.0.left" timestamp="1623337024162">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2537" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1623337024162" />
+    <state width="2537" height="400" key="GridCell.Tab.0.right" timestamp="1623337024162">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2537" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1623337024162" />
+    <state x="1101" y="319" key="RollbackChangesDialog" timestamp="1620411539726">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1101" y="319" key="RollbackChangesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1620411539726" />
+    <state x="780" y="344" key="SettingsEditor" timestamp="1623334315437">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="780" y="344" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1623334315437" />
+    <state x="3227" y="241" width="585" height="558" key="find.popup" timestamp="1623353524783">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3227" y="241" width="585" height="558" key="find.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1623353524783" />
+    <state x="3262" y="245" key="run.anything.popup" timestamp="1623357851736">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1620411329382" />
+    <state x="3262" y="245" key="run.anything.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1623357851736" />
+  </component>
+</project>
